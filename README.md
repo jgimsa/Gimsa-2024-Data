@@ -1,2 +1,4 @@
 # Gimsa-2024-Data
-Supplement to Gimsa et al. 2024
+Supplement to Nearshore Hydrodynamics and Sediment Dispersal Along Eroding Permafrost Coasts—Insights From Acoustic Doppler Current Profiler Measurements Around Herschel Island–Qikiqtaruk (Yukon, Canada)
+DOI: 10.1002/ppp.2258
+
