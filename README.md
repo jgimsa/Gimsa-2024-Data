@@ -4,8 +4,8 @@ Supplement to Gimsa, J., Fritz, M. & Lantuit, H. (2024). Nearshore Hydrodynamics
 Code was written in MATLAB R2023b
 with the help of the following toolboxes:
 
-Image Toolbox 
-Statistics Toolbox
+Image Toolbox ; 
+Statistics Toolbox ; 
 Mapping Toolbox
 
 In order to smoothly process the data start the Matlab scripts in the following order: 
