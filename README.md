@@ -24,9 +24,12 @@ Run 'Results_TimeSeries_ADCP_and_Fig_3.m'
 You get Timeseriesleft.jpg and Timeseriesright.jpg as output. 
 
 Fourth Step - Figure 4 and the results of the cumulative vector plot:
-
+Make sure to have all .mat data files in your current directory 
+Run 'Results_CumVec_and_Fig_4.m'
 
 Fifth Step - Figure 5 
+Make sure to have all .mat data files in your current directory 
+Run 'Results_Sediment_Fig_5.m'
 
 
 
@@ -34,6 +37,5 @@ Fifth Step - Figure 5
 Sources: 
 Thyng, Kristen, et al. “True Colors of Oceanography: Guidelines for Effective and Accurate Colormap Selection.” Oceanography, vol. 29, no. 3, The Oceanography Society, Sept. 2016, pp. 9–13, doi:10.5670/oceanog.2016.66.
 
-
-See also the references in the publication itself! 
+Please also refer to the references in the publication itself! 
 
